@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "virgin-media-weather-app"
+    }
+  },
+  "defaultProject": "virgin-media-weather-app",
+  "cli": {
+    "analytics": false
+  }
 }

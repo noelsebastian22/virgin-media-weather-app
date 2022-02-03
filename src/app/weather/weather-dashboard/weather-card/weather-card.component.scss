@@ -1,0 +1,15 @@
+.weather-card {
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  justify-content: space-evenly;
+  align-items: baseline;
+  padding: 0.8rem;
+  box-shadow: 0px 0px 12px 0px rgb(0 0 0 / 38%);
+  h2 {
+    align-self: center;
+  }
+  span {
+    margin-top: 0.4rem;
+  }
+}
